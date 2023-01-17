@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    display: inline-block;
+}
+
+.txt-line-through {
+    text-decoration: line-through;
+}
+
+.input {
+    border: none;
+    outline: none;
+    margin-left: 30px;
+}
+
+.task-list-area {
+    background-color: #f3e3c2;
+}
